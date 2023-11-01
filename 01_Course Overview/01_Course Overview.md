@@ -1,0 +1,9 @@
+## Course Overview
+```
+Hi, my name is Chuck Cobb. I'm the author of the Project Manager's Guide to Mastering Agile. That will be the third book I've published to date on Agile Project Management, and I've also published two earlier books on business excellence. Agile is rapidly becoming the most widely‑used project management approach in the world, but it requires a lot of training and skill to do it effectively. Welcome to my training course on Understanding Agile at a Deeper Level. This course goes well beyond many typical Agile and Scrum courses that are often limited to the mechanics of how to do Scrum, and it provides a much deeper understanding of how to create a much more flexible and adaptive approach with Agile and Scrum. Here is an overview of the modules in this course. We're going to start with an in‑depth discussion of the Agile manifesto values and principles, then we're going to talk about learning to see the big picture and design thinking, and finally, we're going to talk about managing flow in Agile projects. This course is part of an overall curriculum for Agile business management that consists of three learning paths. This course is the first of four courses in the Mastering Agile Business Management Learning Path. The goal of this learning path is to help prepare business people to take a leadership role in leading Agile projects as a product owner, our position of equivalent responsibility. I hope you'll join me in this journey to learn Agile business management with the Understanding Agile at a Deeper Level course, at Pluralsight.
+```
+
+## Notes
+- Agile is a widely-used project management approach but requires training and skill.
+- Course modules: Agile manifesto values and principles, big picture and design thinking, managing flow in Agile projects.
+- The goal is to prepare business people for leadership roles in Agile projects as product owners or equivalent positions.

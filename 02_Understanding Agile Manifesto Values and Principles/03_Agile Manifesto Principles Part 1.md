@@ -1,6 +1,26 @@
 ## Agile Manifesto Principles: Part 1
 ```
-
+In this lesson, we're going to start discussing the Agile Manifesto principles, how to interpret them, and why they make sense. This lesson is part one of four parts on that subject. This slide shows a summary of the first three Agile Manifesto principles. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. Welcome changing requirements even late in development. Agile processes harness change for the customer's competitive advantage. And deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale. We will discuss each of these in more detail in the following slides. The first principle emphasizes early and continuous delivery of valuable software. In many traditional plan‑driven projects prior to agile, the end‑user customer doesn't see anything until the final user acceptance test phase of the project, and by that time it is very difficult and expensive to make any changes that might be needed. Emphasizing early delivery of software accomplishes two major goals. First, it provides an opportunity for the customer to see the software early in the development cycle and provide feedback and inputs so that corrections can be made quickly and easily. And second, working software is a good measure of progress. It's much more effective to measure progress in terms of incremental software functionality that has actually been completed and delivered to the user's satisfaction, rather than attempting to measure the percentage of completion of a very large development project that is incomplete. It is very difficult to accurately measure progress of a large software development project as a whole without breaking it up into pieces. That can be a very subjective judgment with some amount of guesswork. The key point is that breaking up the effort into well‑defined pieces that each have a clearly defined criteria for being considered done provides a much more factual and objective way of measuring progress. The next principle emphasizes creating an environment where change is expected and welcomed, rather than being rigidly controlled and limited. But of course that doesn't mean that the project is totally uncontrolled. There are lots of ways to manage change effectively, based on a mutual understanding and partnership with the customer. The important thing is that the project team and the customer should have a mutual understanding up front of how change will be managed. The next principle emphasizes using an iterative approach to break up a project into very small increments called sprints, or iterations, which are typically in the range of 2 to 4 weeks. There are a couple of reasons why this makes a lot of sense. First, an agile development process like scrum is based on continuous improvement. Instead of having a rigidly defined process that never changes, the team is expected to take an empirical approach to learn what works and doesn't work as the project progresses and make adjustments as necessary. If the project is broken up into very short increments and learning can take place at the end of each increment, learning and continuous improvement can happen much more rapidly. And second, people work more productively, given short time boxes to get things done. If it is done correctly, the team develops a cadence and a tempo that is very efficient for producing defined increments of work quickly and efficiently, like a manufacturing assembly line. A popular agile mantra is fail early, fail often. In other words, it's better in many cases to try something quickly and learn from it and make adjustments rather than taking all the time that might be needed to design an approach that is going to work flawlessly the first time.
 ```
 
 ## Notes
+- Agile Manifesto values:
+  - Individuals and interactions over processes and tools.
+    - Emphasizes the importance of personal interactions and adaptability.
+    - Encourages a softer leadership approach that empowers individuals.
+    - Acknowledges the role of processes and tools but promotes their intelligent use.
+  - Working software over comprehensive documentation.
+    - Prioritizes functional software over excessive documentation.
+    - Advocates using documentation intelligently and for added value.
+    - Emphasizes the potential of online tools for collaboration.
+  - Customer collaboration over contract negotiation.
+    - Promotes collaboration and partnership with customers.
+    - Acknowledges the need for some level of contract and expectations management.
+    - Encourages trust and a flexible approach to contract requirements.
+  - Responding to change over following a plan.
+    - Values adaptability and flexibility in project planning.
+    - Advocates a rolling wave planning process.
+    - Recognizes that not all project requirements can be predetermined.
+- These values are relative and should be tailored to the specific project context.
+- They are interrelated and should be considered together for an appropriate project approach.
+- A project manager should intelligently design an approach suitable for the project's nature, not rigidly follow a predefined methodology like Waterfall.
